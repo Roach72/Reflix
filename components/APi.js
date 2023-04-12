@@ -1,0 +1,6 @@
+const MYKAY = 'e5ee1675f1e83089e9897a004b28dd1c'
+const Discover = 'https://api.themoviedb.org/3/discover/movie?api_key=e5ee1675f1e83089e9897a004b28dd1c&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=1&with_watch_monetization_types=flatrate'
+const Playing = 'https://api.themoviedb.org/3/movie/now_playing?api_key=e5ee1675f1e83089e9897a004b28dd1c&language=en-US&page=1'
+const Popular = 'https://api.themoviedb.org/3/movie/popular?api_key=e5ee1675f1e83089e9897a004b28dd1c&language=en-US&page=1'
+const Top = 'https://api.themoviedb.org/3/movie/top_rated?api_key=e5ee1675f1e83089e9897a004b28dd1c&language=en-US&page=1'
+const Up = 'https://api.themoviedb.org/3/movie/upcoming?api_key=e5ee1675f1e83089e9897a004b28dd1c&language=en-US&page=1'

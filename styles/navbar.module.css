@@ -1,0 +1,10 @@
+.li{
+    color: #ccc;
+    font-size: medium;
+    transition: ease-in-out 0.3s;
+}
+.li:hover{
+    color: red;
+    font-weight: 700;
+
+}

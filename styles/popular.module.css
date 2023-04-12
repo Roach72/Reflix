@@ -1,0 +1,27 @@
+.container{
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    background-image: url(../public/pp.png);
+    background-size: cover;
+    position: relative;
+    -webkit-box-shadow: 0px 25px 39px 5px rgba(0,0,0,0.62);
+    -moz-box-shadow: 0px 25px 39px 5px rgba(0,0,0,0.62);
+    box-shadow: 0px 25px 39px 5px rgba(0,0,0,0.62);
+}
+.hover{
+    background-color: rgb(0, 0, 0, 0.5);
+    width: 100%;
+}
+.titel{
+    color: red;
+    position: absolute;
+    top: 30%;
+    left: 5%;
+}
+.h{
+    font-weight: bolder;
+}
+.h span{
+    font-size: x-large;
+}

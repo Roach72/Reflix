@@ -1,0 +1,28 @@
+.footer{
+    padding: 30px;
+    background-color: #5a0202;
+}
+.contant{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    width: 8%;
+    padding: 5px;
+}
+.img:hover{
+    width: 9%;
+}
+.h{
+    color: white;
+    font-size: large;
+}
+.h:hover{
+    color: #ccc;
+}
+.h span{
+    color: red;
+    font-weight: bold;
+    font-size: x-large;
+}
